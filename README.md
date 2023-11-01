@@ -8,5 +8,8 @@
 <ul>- Requests </ul>
 <ul>- Request Status </ul>
 </b>
+- You can manipulate this tables but you need be careful with the references tables in anothers tables 
 
-# How to run the aplication 
+# How to run the aplication
+
+
