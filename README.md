@@ -9,4 +9,4 @@
 <ul>- Request Status </ul>
 </b>
 
-# HOW TO RUN THE APLICATION 
+# How to run the aplication 
