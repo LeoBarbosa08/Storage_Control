@@ -1,1 +1,8 @@
-# Storage_Control
+# Description
+- This code provides a basic Inventory control
+- The Inventory Control tables are:
+- <b> Supliers </b>
+- <b> Clients </b>
+- <b> Products </b>
+- <b> Requests </b>
+- <b> Request Status </b>
