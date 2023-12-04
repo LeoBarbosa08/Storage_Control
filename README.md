@@ -19,6 +19,8 @@
 
 - Now you need to open your project properties and go to <b>JAVA BUILD PATH </b>
 - After doing this click on <b>Classpath</b> and then click <b>add External jars</b> and import all jars from the folder seen previously
+
+
 ![image](https://github.com/LeoBarbosa08/Storage_Control/assets/84389162/f0bee630-e9ff-43be-a79e-455b49180b38)
 - Now you can run the application without errors
 
